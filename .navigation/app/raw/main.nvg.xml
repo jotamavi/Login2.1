@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.jota.login2.ReadComments"/>
+      <point      
+        x = "500"      
+        y = "4240"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.jota.login2.Login"/>
+      <point      
+        x = "1232"      
+        y = "8344"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.jota.login2.Registrofin"/>
+      <point      
+        x = "2236"      
+        y = "2876"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.jota.login2.Register"/>
+      <point      
+        x = "500"      
+        y = "7000"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.jota.login2.Registro4"/>
+      <point      
+        x = "1768"      
+        y = "1480"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "com.example.jota.login2.Registro4"/>
+      <point      
+        x = "3036"      
+        y = "1480"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.jota.login2.Registro3"/>
+      <point      
+        x = "500"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "com.example.jota.login2.Registro3"/>
+      <point      
+        x = "1768"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.jota.login2.Registro2"/>
+      <point      
+        x = "500"      
+        y = "2860"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "com.example.jota.login2.Registro2"/>
+      <point      
+        x = "1768"      
+        y = "2860"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.jota.login2.MenuLateral"/>
+      <point      
+        x = "1768"      
+        y = "4240"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "com.example.jota.login2.MenuLateral"/>
+      <point      
+        x = "3036"      
+        y = "4240"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.jota.login2.FragmentMisLugares"/>
+      <point      
+        x = "3124"      
+        y = "1900"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.example.jota.login2.MainMap"/>
+      <point      
+        x = "2752"      
+        y = "4424"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "com.example.jota.login2.MainMap"/>
+      <point      
+        x = "4020"      
+        y = "4424"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
